@@ -140,10 +140,10 @@ body {
 
 .bento-container .item:nth-child(3) img {
   position: absolute;
-  height: 25.625rem;
+  height: 15.625rem;
   object-fit: cover;
   object-position: left;
-  top: 9.375rem;
+  top: 14.375rem;
 }
 
 .bento-container .item:nth-child(4) {
